@@ -24,8 +24,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 
 ## Program :
 
-### Developed by: PRAVEEN S
-### Register Number:  212222240078
+### Developed by: HARISH RAGAV S
+### Register Number:  212222110013
 
 ```
 class Solution(object):
